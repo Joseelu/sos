@@ -1,0 +1,17 @@
+@font-face {
+    font-family:navtext ;
+    src: url(./font/Superstar\ M54.ttf);
+}
+* {box-sizing:border-box}
+body{background-image: url(./img/bg.png);}
+nav{font-family: navtext;}
+h2{font-family: navtext;
+    color: white;}
+h3{font-family: navtext;
+    color: white;}
+h5{font-family: navtext;}
+#ctrl{background-color: #1B492A;
+     color: white;}
+#SOS{background-color: #025373;
+     color: white;}
+#LANA{color: black;}
